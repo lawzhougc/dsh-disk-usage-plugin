@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Disk usage",
+    "description": "Shows the real DSH disk footprint with per-directory and per-file-type breakdown, plus selective or one-click cleanup."
+  }
+}

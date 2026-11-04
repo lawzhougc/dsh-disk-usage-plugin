@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-disk-usage
+      name: '@local/dsh-disk-usage'
